@@ -1,0 +1,6 @@
+{
+  "rpcURL": "https://rinkeby.infura.io/v3/",
+  "socketURL": "wss://rinkeby.infura.io/ws",
+  "oracleAddr": "0xed75b0acfa3113791b8e035d6764fde5ae59f7ba",
+  "senderAddr": "0x5Df13792d16D353e07db601560A55Df0ac498fD1"
+}
